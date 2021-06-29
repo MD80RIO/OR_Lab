@@ -1,4 +1,4 @@
-# An appliation of OR theory. 
+# An application of OR theory. 
 
 During my last year of my Bachelor of Engineering in Management Engineering, AY 2020/2021, I have been partecipating in an Operations Research laboratory which aimed to enable the students to use Python's Pyomo library to elaborate and solve a real world Operations-Research problem. 
 
